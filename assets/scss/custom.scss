@@ -1,0 +1,8 @@
+/**
+*   Global font family
+*/
+:root {
+    --base-font-family: "Source Sans Pro", var(--sys-font-family), var(--zh-font-family), sans-serif;
+}
+
+@import "notices"
